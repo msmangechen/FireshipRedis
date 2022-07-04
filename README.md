@@ -1,4 +1,5 @@
 This project is referred to https://fireship.io/lessons/redis-nextjs/
+Youtube course link: https://www.youtube.com/watch?v=DOIWQddRD5M
 
 ## Set up Redis host link
 Add REDIS_URL=redis://default:PASSWORD@HOST:PORT in .env.local
